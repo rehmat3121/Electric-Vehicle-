@@ -37,13 +37,6 @@ To analyze the growth, distribution, and technological trends of electric vehicl
 
 ---
 
-## 📂 Files Included
-
-- `Electric Vehicle Analysis.pbix` – Power BI Dashboard file
-- `Electric Vehicle Presentation.pptx` – Summary slide deck with key findings
-- Screenshots (optional if you want to add)
-
----
 
 ## 💡 Learnings & Impact
 
