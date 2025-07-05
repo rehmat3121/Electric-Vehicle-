@@ -1,3 +1,9 @@
+## 🖼 Dashboard
+
+<p align="center">
+  <img src="https://github.com/rehmat3121/Electric-Vehicle-/blob/main/Dashboard_Snapshot.png?raw=true" alt="Electric Vehicle Dashboard" width="80%">
+</p>
+
 # 🔋 Electric Vehicle Market Analysis – Power BI Project
 
 This project presents an in-depth analysis of electric vehicle (EV) adoption trends across the United States using interactive Power BI dashboards. It focuses on key performance indicators such as total vehicles, BEV/PHEV share, average electric range, and CAFV eligibility — offering valuable insights into market dynamics, consumer behavior, and regional adoption from 2010 to 2023.
