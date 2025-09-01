@@ -58,5 +58,5 @@ To analyze the growth, distribution, and technological trends of electric vehicl
 If you liked this project or have suggestions, feel free to reach out:
 
 **Mohd Rehmat Ali**  
-[LinkedIn](https://www.linkedin.com/in/rehmat3121) | [GitHub](https://github.com/rehmat3121) | Email: rehmat3121@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohd-rehmat-ali-492677281) | [GitHub](https://github.com/rehmat3121) | Email: rehmat3121@gmail.com
 
